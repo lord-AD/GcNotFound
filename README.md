@@ -2,7 +2,8 @@
 <p align="center"><h4 align="center"><samp>Discord Bot Developer</samp></h4></p>
    <h3 align="center">👋 Hi, I’m Gc </h3>
           <p align="center">   👀 I’m Little develooper ... </p>
- <p align="center">  🌱 I’m currently learning Js and work on Gc's City Bot and Mega Bot  </p>
+ <p align="center">  🌱 I’m currently learning PHP and work on GGame.ir</p>
+ <p align="center'> Even now, I am fluent in HTML,CSS,JS languages
 <br><br>
 <h1 align="center">🤝Contact Me!</h1>
 <p align="center">
